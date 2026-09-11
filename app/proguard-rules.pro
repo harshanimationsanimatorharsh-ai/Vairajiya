@@ -1,0 +1,5 @@
+-keep class com.vexo.app.** { *; }
+-keep class com.google.firebase.** { *; }
+-keep class com.arthenica.ffmpegkit.** { *; }
+-keep class androidx.media3.** { *; }
+-dontwarn com.google.android.gms.**
